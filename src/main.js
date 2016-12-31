@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 
+// 允许调试
+Vue.config.devtools = true
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',

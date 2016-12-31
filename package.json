@@ -1,7 +1,7 @@
 {
-  "name": "test",
+  "name": "vue2-webpack-template-without-eslint",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "基于 **Vue**@2.1.8 / **Vue-cli@2.6.0** 搭建的webpack模板 ( 未包含ESlint工具 ) —— 纯净模版 未添加任何无关依赖",
   "author": "yanxiaodi <929213769@qq.com>",
   "private": true,
   "scripts": {
